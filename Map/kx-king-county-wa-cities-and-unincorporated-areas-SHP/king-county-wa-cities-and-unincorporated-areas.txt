@@ -1,0 +1,45 @@
+========================================================================
+ King County, WA Cities and unincorporated areas
+------------------------------------------------------------------------
+ https://koordinates.com/layer/97395-king-county-wa-cities-and-unincorporated-areas/
+========================================================================
+From: King County, Washington
+
+Description:
+  This layer is a compilation of city jurisdictional information from three
+  counties: King, Pierce and Snohomish, plus the unincorporated areas in each of
+  the three counties. Uses the best available information from each of the 3
+  counties to produce the composite product for the jurisdictional areas and
+  assumes the areas outside of the jurisdictions to be unincorporated. Updated
+  whenever changes are made to any one of the source data sets. For King County
+  this will be whenever CITY_AREA (parent is CITY_ANNEX) is updated to Spatial
+  Data Warehouse. Pierce and Snohomish updates are shared with King County on
+  quarterly to semi-annual basis. Updates are made so that the King County portion
+  of this composite is synchronous with the information in the master King County
+  jurisdiction layer.
+  
+  This layer is a component of [Administrative
+  Areas](http://gismaps.kingcounty.gov/arcgis/rest/services/Administration/KingCo_AdministrativeAreas/MapServer?f=json).
+  
+  These administrative layers represent incorporated areas, zip codes for King,
+  Snohomish and Pierce counties and tribal lands.
+  
+  © King County
+
+CRS: WGS 84 / Pseudo-Mercator
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 19 Sep 2018
+- 36 invalid geometries fixed at import time 
+    (see https://koordinates.com/layer/97395-king-county-wa-cities-and-unincorporated-areas/history/)
+- converted by Koordinates to Shapefile on 10 Dec 2022 (reference #2728067)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
